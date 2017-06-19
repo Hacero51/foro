@@ -33,6 +33,7 @@ class CreatePostsTest extends FeatureTestCase
         ]);
 
         $this->seeInElement('h1',$title);
+        //hola mundo
 
     }
 
