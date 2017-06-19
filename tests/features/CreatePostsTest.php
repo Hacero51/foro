@@ -33,7 +33,8 @@ class CreatePostsTest extends FeatureTestCase
         ]);
 
         $this->seeInElement('h1',$title);
-        //hola mundo
+        //En que directorio esta guardado el archivo o proyecto foro?
+
 
     }
 
